@@ -1,6 +1,6 @@
 import { AppPage } from './app.po';
 
-describe('q-contacts App', () => {
+describe('gsheets-2-vcf App', () => {
   let page: AppPage;
 
   beforeEach(() => {

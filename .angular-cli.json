@@ -1,7 +1,7 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
   "project": {
-    "name": "q-contacts"
+    "name": "gsheets-2-vcf"
   },
   "apps": [
     {

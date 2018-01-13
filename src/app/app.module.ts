@@ -6,7 +6,6 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { HeaderComponent } from './header/header.component';
 import { HomeComponent } from './home/home.component';
-import { GApiService } from './gapi.service';
 
 
 @NgModule({
@@ -19,7 +18,7 @@ import { GApiService } from './gapi.service';
     BrowserModule,
     AppRoutingModule
   ],
-  providers: [GApiService],
+  providers: [],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
